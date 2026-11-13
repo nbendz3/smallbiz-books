@@ -1,4 +1,4 @@
-modules = ["nodejs-20", "postgresql-16"]
+modules = ["nodejs-22", "postgresql-16"]
 run = ["sh", "-c", "npm install --no-audit --no-fund && npm run dev"]
 
 [env]
